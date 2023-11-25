@@ -1,6 +1,6 @@
 🌟✨ **Bem-vindo ao Desafio do Classificador de Nível de Herói!** ✨🌟
 
-Desperte o herói em você, utilizando a magia da programação com variáveis, operadores, laços de repetição e estruturas de decisões! 🚀
+Desperte o herói em você, onde foi utilizado a magia da programação com variáveis, operadores, laços de repetição e estruturas de decisões! 🚀
 
 ### 🏆 Objetivo:
 Criar um código capaz de elevar a jornada de um aspirante a herói para novos patamares, identificando seu nível com base na quantidade de experiência (XP) conquistada.
