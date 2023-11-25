@@ -13,12 +13,19 @@ Utilize sua perícia para:
 ### 🏅 Níveis de Heroísmo:
 
 🔹 **Ferro:** Para os heróis em ascensão, com XP abaixo de 1.000.
+
 🔸 **Bronze:** Entre 1.001 e 2.000 XP - um brilho inicial de bravura.
+
 🔹 **Prata:** Entre 2.001 e 5.000 XP - lapidando sua lenda.
+
 🔸 **Ouro:** Entre 5.001 e 6.000 XP - um verdadeiro tesouro entre os heróis.
+
 🔹 **Platina:** Entre 6.001 e 8.000 XP - alcançando novas alturas.
+
 🔸 **Ascendente:** Entre 8.001 e 9.000 XP - prestes a atingir a imortalidade.
+
 🔹 **Imortal:** Entre 9.001 e 10.000 XP - um verdadeiro ícone do heroísmo.
+
 🔸 **Radiante:** 10.001 XP ou mais - o pináculo da excelência, onde lendas nascem!
 
 ### 🌟 Desperte seu código e descubra o nível do seu herói!
